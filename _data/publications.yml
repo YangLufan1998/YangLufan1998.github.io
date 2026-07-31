@@ -1,5 +1,15 @@
 main:
 
+  - title: "Immunogenetics and TCR expression patterns together predict future T1D onset from multi-omic datasets"
+    authors: <strong>Lufan Yang</strong>, Alexis Lindahl, Michael Robben
+    journal: Frontiers in Genetics, 2026
+    website: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1833788/full
+    pdf: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1833788/pdf
+    image: ./assets/img/t1d_tcr_figure5.webp
+    image_fit: cover
+    image_position: top
+    notes: Co-first author
+
   - title: "Maternal vaccination partially protects piglets against influenza A virus associated alteration of the microbiome and hippocampal gene expression"
     authors: Christopher A. Gaulke, Fangfeng Yuan, <strong>Lufan Yang</strong>, Luoyan Duan, Meghan G. Connolly, Shih-Hsuan Hsiao, Adrienne M. Antonson, Ying Fang
     journal: Veterinary Microbiology, 2025
